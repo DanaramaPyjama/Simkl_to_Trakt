@@ -19,4 +19,5 @@ Success test:
 
 
 # Simkl_to_Trakt
-This script is actually broken, I think it is an older version of the one I used in production.
+This script is actually broken, I think it is an older version of the one I used in production.  The actual export, sync and debugging aspects work.  These can be used for reference.
+None of the authgentication or token stuff works.
