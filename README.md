@@ -1,5 +1,5 @@
 # trakt_auth
-This script will look for a JSON auth token.  If it does not exist, it will get you a device code, and give you a link to authenticate.  This should only need to be done once.
+This (Python) script will look for a JSON auth token.  If it does not exist, it will get you a device code, and give you a link to authenticate.  This should only need to be done once.
 
 "No Trakt token found. Starting manual device authentication...
 
