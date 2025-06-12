@@ -6,13 +6,13 @@ import webbrowser
 # Simkl API credentials
 SIMKL_CLIENT_ID = "<yours>"
 SIMKL_API_URL = "https://api.simkl.com"
-SIMKL_TOKEN_FILE = "/path/to/trakt/simkl_token.json"
+SIMKL_TOKEN_FILE = "/path/to/script/simkl_token.json"
 
 # Trakt API credentials
 TRAKT_CLIENT_ID = "<yours>"
 TRAKT_CLIENT_SECRET = "<yours>"
 TRAKT_API_URL = "https://api.trakt.tv"
-TRAKT_TOKEN_FILE = "/path/to/scripts/trakt/trakt_token.json"
+TRAKT_TOKEN_FILE = "/path/to/script/trakt_token.json"
 # Output files
 FULL_SIMKL_OUTPUT = "full_simkl_output.json"
 FILTERED_OUTPUT_FILE = "simkl_output.txt"
