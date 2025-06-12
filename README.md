@@ -1,6 +1,3 @@
-# Simkl_to_Trakt
-This script is actually broken, I think it is an older version of the one I used in production.
-
 # trakt_auth
 This script DOES work.  It will look for a JSON auth token.  If it does not exist, it will get you a device code, and give you a link to authenticate.  This should only need to be done once.
 Existing, expired tokens will be refreshed automatically when the script runs.
@@ -13,3 +10,5 @@ Script is written for Windows (See path and escape chars)
 
 3. Press Enter after you have authorized the app..."
 
+# Simkl_to_Trakt
+This script is actually broken, I think it is an older version of the one I used in production.
