@@ -17,6 +17,8 @@ Success test:
 
 "Hello, \<Trakt username\>!"
 
+Please note: The script was written with a hardcoded path to the WINDOWS location of the json.  This script is just a proof of concept, so no dynamic path testing occurs, as making this script elegant was not in scope.
+
 
 # Simkl_to_Trakt
 This script is actually broken, I think it is an older version of the one I used in production.  The actual export, sync and debugging aspects work.  These can be used for reference.
