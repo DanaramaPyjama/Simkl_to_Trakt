@@ -15,7 +15,7 @@ Script is written for Windows (See path and escape chars)
 
 Success test:
 
-"Hello, <Trakt username>!"
+"Hello, \<Trakt username\>!"
 
 
 # Simkl_to_Trakt
